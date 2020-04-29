@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(http://wallpaperping.com/wp-content/uploads/2019/11/artist_waves_colorful_129158_1920x1080.jpg) no-repeat;
+    background-size: cover;
+}
+
+.box {
+    
+    background: white;
+    opacity: 74%;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 16px;
+}
+
+.box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1 {
+    font-size: 35px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    font-family: 'Bebas Neue', cursive;
+    padding: 10px;
+}
+
+h5 {
+    padding: 15px;
+}
+
+a {
+    font-size: 21px;
+}
+
+
+li {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.box-about {
+    width: 280px;
+    background: orange;
+    opacity: 74%;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 16px;
+}
+
+.box-contact {
+    width: 280px;
+    background: turquoise;
+    opacity: 74%;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 3%;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 16px;
+}
